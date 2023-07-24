@@ -29,7 +29,8 @@ server {
                 proxy_set_header Upgrade $http_upgrade;
                 proxy_set_header Connection "upgrade";
     }
-    location /text {
+    location /text/ {
+                rewrite    /text/(.*) /$1 break;
                 proxy_pass http://text_search:8502;
                 proxy_set_header        Host $host;
                 proxy_set_header        X-Real-IP $remote_addr;
