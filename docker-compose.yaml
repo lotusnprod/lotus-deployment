@@ -6,6 +6,12 @@ services:
     restart: always
     volumes:
       - ./mol_search:/app
+  text_search:
+    build: text_search
+    container_name: text_search
+    restart: always
+    volumes:
+      - ./text_search:/app
   nginx:
     container_name: nginx
     image: nginx:latest
