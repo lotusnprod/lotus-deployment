@@ -1,11 +1,11 @@
 version: "3"
 services:
   mol_search:
-    build: app
+    build: molecule_search
     container_name: mol_search
     restart: always
     volumes:
-      - ./app:/app
+      - ./molecule_search:/app
   nginx:
     container_name: nginx
     image: nginx:latest
