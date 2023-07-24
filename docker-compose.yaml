@@ -20,6 +20,7 @@ services:
       - DOMAIN
     depends_on:
       - mol_search
+      - text_search
     ports:
       - 80:80
       - 443:443
