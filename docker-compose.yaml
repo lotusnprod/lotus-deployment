@@ -1,11 +1,5 @@
 version: "3"
 services:
-  mol_search:
-    build: mol_search
-    container_name: mol_search
-    restart: always
-    volumes:
-      - ./mol_search:/app
   text_search:
     build: text_search
     container_name: text_search
@@ -19,7 +13,6 @@ services:
     environment:
       - DOMAIN
     depends_on:
-      - mol_search
       - text_search
     ports:
       - 80:80
