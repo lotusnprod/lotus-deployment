@@ -1,11 +1,11 @@
 version: "3"
 services:
-  text_search:
-    build: text_search
-    container_name: text_search
+  search:
+    build: search
+    container_name: search
     restart: always
     volumes:
-      - ./text_search:/app
+      - ./search:/app
   nginx:
     container_name: nginx
     image: nginx:latest
@@ -13,7 +13,7 @@ services:
     environment:
       - DOMAIN
     depends_on:
-      - text_search
+      - search
     ports:
       - 80:80
       - 443:443
