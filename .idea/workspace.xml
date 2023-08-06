@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7430bdf-320f-47a6-928e-533a85f36fda" name="Changes" comment="Cleanup update script">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_job.sh" beforeDir="false" afterPath="$PROJECT_DIR$/update_job.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rgvw55cp" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/bjo/Software/lotus/streamlit-ketcher",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7430bdf-320f-47a6-928e-533a85f36fda" name="Changes" comment="" />
+      <created>1690160419653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690160419653</updated>
+      <workItem from="1690160420593" duration="19990000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1690160695760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690160695760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update path">
+      <option name="closed" value="true" />
+      <created>1690161447327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690161447327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update paths">
+      <option name="closed" value="true" />
+      <created>1690163666494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690163666494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update paths">
+      <option name="closed" value="true" />
+      <created>1690168076121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690168076121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add text_search (previous commit too)">
+      <option name="closed" value="true" />
+      <created>1690168094262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690168094262</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix proxying">
+      <option name="closed" value="true" />
+      <created>1690169114845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690169114845</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add update of text_search">
+      <option name="closed" value="true" />
+      <created>1690169299945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690169299945</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix container names">
+      <option name="closed" value="true" />
+      <created>1690169671955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690169671955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update the update job">
+      <option name="closed" value="true" />
+      <created>1690512395084</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690512395084</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bla bla who cares about failures">
+      <option name="closed" value="true" />
+      <created>1690512791741</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690512791741</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bla bla who cares about failures">
+      <option name="closed" value="true" />
+      <created>1690512817128</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690512817128</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update all the stuff">
+      <option name="closed" value="true" />
+      <created>1690589269966</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690589269966</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Cleanup update script">
+      <option name="closed" value="true" />
+      <created>1690945481111</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690945481111</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Update path" />
+    <MESSAGE value="Update paths" />
+    <MESSAGE value="Add text_search (previous commit too)" />
+    <MESSAGE value="Fix proxying" />
+    <MESSAGE value="Add update of text_search" />
+    <MESSAGE value="Fix container names" />
+    <MESSAGE value="Update the update job" />
+    <MESSAGE value="Bla bla who cares about failures" />
+    <MESSAGE value="Update all the stuff" />
+    <MESSAGE value="Cleanup update script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup update script" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
