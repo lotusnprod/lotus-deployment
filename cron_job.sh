@@ -9,5 +9,5 @@ else
 fi
 
 # renew certbot certificate
-docker compose -f /home/bjo/molecule_search/docker-compose.yaml run --rm certbot
-docker compose -f /home/bjo/molecule_search/docker-compose.yaml exec nginx nginx -s reload
+docker compose -f /home/bjo/deployment/docker-compose.yaml run --rm certbot
+docker compose -f /home/bjo/deployment/docker-compose.yaml exec nginx nginx -s reload
